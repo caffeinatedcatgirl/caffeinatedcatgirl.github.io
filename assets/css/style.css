@@ -543,7 +543,7 @@ section {
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #2a2c39;
+  color: #bdbdbd;
 }
 
 /*--------------------------------------------------------------
@@ -1552,7 +1552,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #14151c;
+  background: #000000;
   color: #fff;
   font-size: 14px;
   text-align: center;
