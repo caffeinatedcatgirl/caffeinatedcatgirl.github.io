@@ -10,7 +10,8 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color: #bdbdbd;
+  background-color: #686868;
 }
 
 a {
@@ -612,6 +613,7 @@ section {
 --------------------------------------------------------------*/
 .features .nav-tabs {
   border: 0;
+  background-color: #686868;
 }
 
 .features .nav-link {
@@ -631,8 +633,8 @@ section {
 }
 
 .features .nav-link h4 {
-  font-size: 100px;
-  font-weight: 600;
+  font-size: 18px;
+  font-weight: 600;  
   margin: 0;
 }
 
@@ -641,8 +643,8 @@ section {
 }
 
 .features .nav-link.active {
-  background: #FF0000;
-  color: #fff;
+  background-color: #a26969;
+  color: #a26969;
   border-color: #FF0000;
 }
 
