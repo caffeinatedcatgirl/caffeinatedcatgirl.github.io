@@ -3,3 +3,7 @@ console.log("-------------------------------------------------------------------
 console.log("^[ [^ascii ^art ^generator](http://asciiart.club) ^] ");
 console.log("------------------------------------------------------------------------------------");
 console.log("OwO Aren't you clever?");
+
+function downTheRabbitHole() {
+	console.log("How very clever!"); 
+}
